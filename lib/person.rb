@@ -57,6 +57,10 @@ def work_out
   return "♪ another one bites the dust ♫"
 end
 
+def call_friend()
+  
+end
+
 end
 
 poopy = Person.new("poopy")
