@@ -57,7 +57,9 @@ def work_out
   return "♪ another one bites the dust ♫"
 end
 
-def call_friend()
+def call_friend(friend)
+  friend.happiness += 3 
+  self.happiness += 3
   
 end
 
