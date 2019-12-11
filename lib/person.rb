@@ -64,7 +64,7 @@ def call_friend(friend)
 end
 
 def start_conversation(person, topic)
-  puts 
+  "blah blah partisan blah lobbyist" && self.happiness -= 2 && person.happiness -= 2 if topic == "politics"
 end 
 
 end # end of this godforsaken code 
