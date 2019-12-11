@@ -71,7 +71,9 @@ if topic == "politics"
     elsif topic == "weather" 
     self.happiness += 2 
     person.happiness += 2 
-    "blah blah partisan blah lobbyist"
+    "blah blah sun blah rain"
+  else
+    
   end
 end 
 
