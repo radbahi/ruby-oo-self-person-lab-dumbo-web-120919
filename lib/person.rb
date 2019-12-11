@@ -60,9 +60,15 @@ end
 def call_friend(friend)
   friend.happiness += 3 
   self.happiness += 3
-  
+  return "Hi Penelope! It's Felix. How are you?"
 end
 
-end
+def start_conversation(person, topic)
+  
+end 
+
+end # end of this godforsaken code 
+
+
 
 poopy = Person.new("poopy")
