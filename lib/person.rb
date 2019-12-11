@@ -64,7 +64,7 @@ def call_friend(friend)
 end
 
 def start_conversation(person, topic)
-  
+  puts 
 end 
 
 end # end of this godforsaken code 
